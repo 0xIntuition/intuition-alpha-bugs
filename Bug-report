@@ -1,0 +1,1 @@
+The docs in the API need to reflect the ability to query identities and create claims. Currently the docs only let you create a subject and attach it to a default predicate and object which does not exemplify for developers how to create a claim. 
