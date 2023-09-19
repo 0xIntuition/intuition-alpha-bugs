@@ -1,21 +1,21 @@
-#Intuition Bug & Improvement Reporting
+# Intuition Bug & Improvement Reporting
 
 This repo is dedicated to reporting bugs and suggesting improvements to Intuition. Please create issues for any bugs and improvements in the below structure: 
 
-1. ##Basic Information
+1. ## Basic Information
      - Telegram ID (optional)
      - Discord ID (optional):
-2. ##Bug/Improvement Details
+2. ## Bug/Improvement Details
      - Detailed Description of the Bug
      - When describing the bug you encountered, detail your actions leading up to the issue, explain the exact unexpected behavior versus what you anticipated, and indicate if it's reproducible with steps or if any specific error messages appeared. Please include screenshots or video recordings for clarity.
-3. ##Screenshots or Attachments
+3. ## Screenshots or Attachments
      - Please upload any screenshots, screen recordings, or other relevant files that could help us understand the bug better. (File upload option)
-4. ##Wallet address (optional)
+4. ## Wallet address (optional)
      - Please provide the wallet address you are using while experiencing this issue.
-4. ##Platform Information 
+4. ## Platform Information 
      - What browser are you using? (Chrome, Brave, Arc, Firefox, Other)
      - What wallet are you using? (Metamask, Rainbow, Coinbase, etc)
-5. ##Additional Notes/Comments
+5. ## Additional Notes/Comments
      - Is there anything else you'd like to add regarding this bug or any other feedback?
 
 If you do not feel comfortable sharing any of the above, please join the Intuition Discord and open a ticket in "Support". 
