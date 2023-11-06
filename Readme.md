@@ -17,7 +17,6 @@ This repo is dedicated to reporting bugs and suggesting improvements to Intuitio
 * Please provide the wallet address you are using while experiencing this issue.
 
 ## 5. Platform Information 
-* What browser are you using? (Chrome, Brave, Arc, Firefox, Other)
 * What wallet are you using? (Metamask, Rainbow, Coinbase, etc)
 
 ## 6. Additional Notes/Comments
